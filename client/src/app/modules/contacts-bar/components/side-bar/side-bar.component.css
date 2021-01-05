@@ -1,0 +1,13 @@
+#sideBar{
+  position: fixed;
+  left: 0;
+  width: 20%;
+  height: 100%;
+  background-color: darkslategray;
+  padding: 1%;
+  box-sizing: border-box;
+}
+#contacts{
+  margin-top: 10px;
+  height: 100%;
+}
